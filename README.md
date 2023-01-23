@@ -17,3 +17,6 @@ Step are as follows:
 You can check the logs of the pods to find the rasa logs of the one who handled it by doing this:
 `kubectl  --namespace demo logs <name-of-pod-got-from-step-4.>`
 
+source: [This amazing tuto by Vincent](https://www.youtube.com/watch?v=Cj-LFSCf7Jw&list=PL75e0qA87dlHmfmu7oPPYA22fmc6GJ2aW&index=6&ab_channel=Rasa) + some stackoverflow for local image usage.
+
+Have fun :D
